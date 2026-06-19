@@ -250,7 +250,7 @@ A structured machine learning pipeline focused on preprocessing, model compariso
 
 <!-- ===================== WORK AREAS ===================== -->
 
-What I Can Work On
+# What I Can Work On
 
 | Area             | What I Build                                                   |
 | ---------------- | -------------------------------------------------------------- |
@@ -264,7 +264,7 @@ What I Can Work On
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
-Current Focus
+# Current Focus
 
 I am currently strengthening my profile in:
 
