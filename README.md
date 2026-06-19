@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Hi, I'm Sreekar Vanka 👋</h1>
+<h1 align="center">Hi, I'm Sreekar👋</h1>
 
 <h3 align="center">
 AI / ML Engineer | Computer Vision | LLM / VLM / RAG | MLOps
@@ -248,41 +248,9 @@ A structured machine learning pipeline focused on preprocessing, model compariso
 </tr>
 </table>
 
----
-
-<!-- ===================== ARCHITECTURE ===================== -->
-
-## Project Architecture Snapshot
-
-```mermaid
-flowchart LR
-    A[Input Data / Image] --> B[Preprocessing]
-    B --> C[AI Model]
-    C --> D[Prediction / Understanding]
-    D --> E[Evaluation]
-    E --> F[Demo Interface]
-    F --> G[Deployment-Ready Project]
-
-    C --> H[MLflow Tracking]
-    C --> I[Explainability]
-    F --> J[Streamlit / FastAPI]
-    G --> K[Docker / GitHub Actions]
-```
-
-flowchart TD
-```mermaid
-    A[Problem Understanding] --> B[Dataset Inspection]
-    B --> C[Data Cleaning]
-    C --> D[Model Selection]
-    D --> E[Training]
-    E --> F[Evaluation]
-    F --> G[Error Analysis]
-    G --> H[Explainability]
-    H --> I[API or Demo App]
-    I --> J[Testing]
-    J --> K[Docker / Deployment]
-```
 <!-- ===================== WORK AREAS ===================== -->
+
+What I Can Work On
 
 | Area             | What I Build                                                   |
 | ---------------- | -------------------------------------------------------------- |
@@ -295,6 +263,7 @@ flowchart TD
 | Model Evaluation | Metrics, error analysis, confidence thresholds, explainability |
 
 <!-- ===================== CURRENT FOCUS ===================== -->
+
 Current Focus
 
 I am currently strengthening my profile in:
@@ -315,4 +284,4 @@ Contribution Graph
 
 <!-- ===================== CONTACT ===================== -->
 Contact
-<p align="center"> <a href="mailto:harithasarama@gmail.com"> <img src="https://img.shields.io/badge/Email-harithasarama@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="YOUR-LINKEDIN-LINK"> <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <a href="mailto:sreekar.germany.2025@gmail.com"> <img src="https://img.shields.io/badge/Email-sreekar.germany.2025@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/sreekar-v/"> <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
