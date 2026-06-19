@@ -119,7 +119,7 @@ An AI-powered industrial inspection system that analyzes uploaded images, retrie
 
 <br>
 
-<a href="https://github.com/Sreekar-1804/LLM-VLM">
+<a href="https://github.com/Sreekar-1804/Visionguard-AI-Industrial-Inspection">
   <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
@@ -158,7 +158,7 @@ A computer vision system for detecting safety equipment using YOLOv8 with datase
 
 <br>
 
-<a href="YOUR-PPE-PROJECT-LINK">
+<a href="https://github.com/Sreekar-1804/Yolov8-PPE-Detection">
   <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
@@ -203,7 +203,7 @@ A deep learning project using a multitask ResNet34 model to predict gender and a
 
 <br>
 
-<a href="YOUR-DEEP-LEARNING-PROJECT-LINK">
+<a href="https://github.com/Sreekar-1804/Deep-Learning-Age-Gender-Prediction">
   <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
@@ -240,7 +240,7 @@ A structured machine learning pipeline focused on preprocessing, model compariso
 
 <br>
 
-<a href="YOUR-ML-PIPELINE-LINK">
+<a href="https://github.com/Sreekar-1804/Machine-learning-classification-">
   <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
