@@ -1,94 +1,298 @@
-# Hi, I'm Sreekar
+<!-- Profile Header -->
 
-AI/ML Engineering student focused on Computer Vision, Deep Learning, LLM/VLM systems, RAG pipelines, and deployable AI applications.
+<h1 align="center">Hi, I'm Sreekar Vanka 👋</h1>
 
-I build end-to-end machine learning projects that include data preprocessing, model training, evaluation, explainability, API integration, tracking, testing, and demo deployment.
+<h3 align="center">
+AI / ML Engineer | Computer Vision | LLM / VLM / RAG | MLOps
+</h3>
 
----
+<p align="center">
+I build practical AI systems that move beyond notebooks — from model training and evaluation to dashboards, APIs, Docker, testing, and deployment-ready demos.
+</p>
 
-## Focus Areas
-
-- Computer Vision: YOLOv8, object detection, PPE detection, Grad-CAM, real-time inference
-- Deep Learning: PyTorch, CNNs, ResNet34, transfer learning, image classification
-- LLM/VLM Systems: RAG, multimodal inspection assistants, vector search, prompt-based report generation
-- MLOps & Deployment: MLflow, Docker, FastAPI, Streamlit, pytest, GitHub Actions
-- Machine Learning: scikit-learn pipelines, classification, regression, model comparison, feature engineering
-
----
-
-## Featured Projects
-
-### VisionGuard AI — Multimodal Industrial Inspection Assistant
-LLM/VLM/RAG-based system for industrial safety and quality inspection.
-
-**Tech:** FastAPI, Streamlit, RAG, FAISS, MLflow, Docker, pytest, LLM/VLM APIs
-
-**Highlights:**
-- Image upload pipeline for industrial safety inspection
-- VLM-based visual understanding
-- RAG-based rule retrieval from safety knowledge base
-- LLM-generated structured inspection reports
-- MLflow experiment tracking and Docker-based deployment
-
-[Repository](https://github.com/Sreekar-1804/LLM-VLM)
+<p align="center">
+  <a href="mailto:harithasarama@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Sreekar-1804">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-### YOLOv8 PPE Safety Detection
-Computer vision pipeline for detecting PPE violations in industrial environments.
+## About Me
 
-**Tech:** YOLOv8, PyTorch, OpenCV, Streamlit, Grad-CAM, real-time inference
+I am focused on building **industry-style AI engineering projects** using:
 
-**Highlights:**
-- Dataset validation and class filtering
-- YOLOv8 model benchmarking
-- Precision, recall, mAP evaluation
-- Explainability and error analysis
-- Image, video, and webcam inference support
+- **Computer Vision** for object detection, safety monitoring, and image understanding
+- **Deep Learning** using PyTorch, CNNs, ResNet, and YOLOv8
+- **LLM / VLM applications** using RAG, multimodal reasoning, and structured AI reports
+- **MLOps workflows** with MLflow, Docker, FastAPI, Streamlit, testing, and CI
 
-[Repository](https://github.com/Sreekar-1804/ComputerVision)
-
----
-
-### Age & Gender Prediction using ResNet34
-Deep learning image classification project with multitask learning and explainability.
-
-**Tech:** PyTorch, ResNet34, CNNs, Grad-CAM, Streamlit
-
-**Highlights:**
-- Multitask model for age group and gender prediction
-- Transfer learning using ResNet34
-- Confidence scores and Grad-CAM visual explanations
-- Local Streamlit demo for image upload inference
-
-[Repository](https://github.com/Sreekar-1804/DeepLearning)
+My main goal is to build AI systems that are not only accurate, but also **usable, explainable, testable, and demo-ready**.
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, SQL, HTML, CSS  
-**ML/DL:** PyTorch, scikit-learn, Ultralytics YOLOv8, CNNs, ResNet34  
-**AI Systems:** LLMs, VLMs, RAG, FAISS, embeddings, prompt engineering  
-**Deployment:** FastAPI, Streamlit, Docker  
-**MLOps:** MLflow, pytest, GitHub Actions  
-**Data:** pandas, NumPy, matplotlib, seaborn  
+### AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+### LLM / VLM / RAG
+
+<p>
+  <img src="https://img.shields.io/badge/LLM-Generative_AI-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLM-Multimodal_AI-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-Vector_Search-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-Local_LLM-black?style=for-the-badge" />
+</p>
+
+### Engineering / Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
-## Current Goal
+## Featured Projects
 
-Actively looking for internship / working student opportunities in:
+<table>
+<tr>
+<td width="50%">
 
-- AI Engineering
-- Machine Learning Engineering
-- Computer Vision
-- Data Science
-- MLOps / Applied AI
+### VisionGuard AI  
+**Multimodal Industrial Inspection Assistant**
+
+<img src="https://img.shields.io/badge/LLM-VLM-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-FAISS-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/MLOps-MLflow-green?style=flat-square" />
+
+An AI-powered industrial inspection system that analyzes uploaded images, retrieves relevant safety rules, and generates structured inspection reports.
+
+**Key Features**
+
+- Image upload and visual inspection workflow
+- VLM-based scene understanding
+- RAG-based rule retrieval
+- LLM-generated safety reports
+- MLflow experiment tracking
+- FastAPI backend and Streamlit frontend
+- Dockerized deployment setup
+- Pytest-based testing
+
+**Use Cases**
+
+- PPE violations  
+- Unsafe machine proximity  
+- Blocked exits  
+- Exposed cables  
+- Surface cracks  
+- Oil leakage  
+- Damaged components  
+
+<br>
+
+<a href="https://github.com/Sreekar-1804/LLM-VLM">
+  <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### YOLOv8 PPE Detection  
+**Real-Time Safety Object Detection**
+
+<img src="https://img.shields.io/badge/YOLOv8-Object_Detection-black?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCV-Real_Time-green?style=flat-square" />
+<img src="https://img.shields.io/badge/XAI-Heatmaps-orange?style=flat-square" />
+
+A computer vision system for detecting safety equipment using YOLOv8 with dataset engineering, benchmarking, explainability, and real-time inference.
+
+**Key Features**
+
+- Dataset validation and cleaning
+- Class filtering from 14 classes to 5 PPE classes
+- YOLOv8n, YOLOv8s, YOLOv8m benchmarking
+- Precision, recall, mAP50, mAP50-95 evaluation
+- Confidence threshold analysis
+- Explainability heatmaps
+- Image, video, and webcam inference
+- Streamlit demo interface
+
+**Detected Classes**
+
+- Hardhat  
+- Safety vest  
+- Gloves  
+- Mask  
+- Person  
+
+<br>
+
+<a href="https://github.com/Sreekar-1804">
+  <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Contact
+<table>
+<tr>
+<td width="50%">
 
-LinkedIn: add your LinkedIn link  
-Email: add your email  
+### Deep Learning Age & Gender Prediction  
+**Multitask ResNet34 Classifier**
+
+<img src="https://img.shields.io/badge/PyTorch-Deep_Learning-red?style=flat-square" />
+<img src="https://img.shields.io/badge/ResNet34-CNN-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/GradCAM-XAI-orange?style=flat-square" />
+
+A deep learning project using a multitask ResNet34 model to predict gender and age group from facial images.
+
+**Key Features**
+
+- Custom preprocessing pipeline
+- Transfer learning using ResNet34
+- Two-head classification model
+- Gender prediction
+- Age group prediction
+- Confidence scores
+- Grad-CAM visual explanations
+- Streamlit image upload demo
+
+**Core Skills Shown**
+
+- CNNs  
+- Transfer learning  
+- PyTorch model training  
+- Explainable AI  
+- Streamlit deployment  
+
+<br>
+
+<a href="https://github.com/Sreekar-1804">
+  <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### Machine Learning Classification Pipeline  
+**End-to-End ML Model Development**
+
+<img src="https://img.shields.io/badge/Scikit--Learn-ML_Pipeline-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/GridSearchCV-Tuning-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/F1_Score-Evaluation-green?style=flat-square" />
+
+A structured machine learning pipeline focused on preprocessing, model comparison, hyperparameter tuning, and evaluation.
+
+**Key Features**
+
+- Data cleaning and preprocessing
+- Feature engineering
+- ColumnTransformer pipeline
+- Multiple model comparison
+- GridSearchCV / RandomizedSearchCV
+- F1-score based evaluation
+- Clean reusable ML workflow
+
+**Core Skills Shown**
+
+- Classical ML  
+- Pipelines  
+- Hyperparameter tuning  
+- Model evaluation  
+- Practical ML workflow  
+
+<br>
+
+<a href="https://github.com/Sreekar-1804">
+  <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Project Architecture Snapshot
+
+```mermaid
+flowchart LR
+    A[Input Data / Image] --> B[Preprocessing]
+    B --> C[AI Model]
+    C --> D[Prediction / Understanding]
+    D --> E[Evaluation]
+    E --> F[Demo Interface]
+    F --> G[Deployment-Ready Project]
+
+    C --> H[MLflow Tracking]
+    C --> I[Explainability]
+    F --> J[Streamlit / FastAPI]
+    G --> K[Docker / GitHub Actions]
+
+flowchart TD
+    A[Problem Understanding] --> B[Dataset Inspection]
+    B --> C[Data Cleaning]
+    C --> D[Model Selection]
+    D --> E[Training]
+    E --> F[Evaluation]
+    F --> G[Error Analysis]
+    G --> H[Explainability]
+    H --> I[API or Demo App]
+    I --> J[Testing]
+    J --> K[Docker / Deployment]
+
+| Area             | What I Build                                                |
+| ---------------- | ----------------------------------------------------------- |
+| Computer Vision  | Object detection, image classification, real-time inference |
+| Deep Learning    | CNNs, transfer learning, multitask models                   |
+| LLM Applications | RAG pipelines, structured report generation, AI assistants  |
+| VLM Applications | Image understanding, visual inspection workflows            |
+| MLOps            | MLflow tracking, testing, Docker, CI pipelines              |
+| AI Demos         | Streamlit dashboards, FastAPI backends, upload-based apps   |
+
+Current Focus
+
+I am currently strengthening my profile in:
+
+Production-style AI engineering
+Computer vision systems for safety and inspection
+LLM / VLM / RAG applications
+Local LLM deployment using Ollama
+MLOps workflows with Docker, MLflow, testing, and CI
+Cloud and API-based AI system design
+
+GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sreekar-1804&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreekar-1804&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreekar-1804&layout=compact&theme=tokyonight&hide_border=true" width="45%" /> </p>
+
+Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreekar-1804&theme=tokyo-night&hide_border=true" /> </p>
+
+Contact
+<p align="center"> <a href="mailto:harithasarama@gmail.com"> <img src="https://img.shields.io/badge/Email-harithasarama@gmail.com-red?style=for-the-badge&logo=gmail" /> </a> <a href="https://www.linkedin.com/in/sreekar-v/"> <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
+<p align="center"> <b>Building practical AI systems with Computer Vision, LLMs, VLMs, RAG, and MLOps.</b> </p> ```
