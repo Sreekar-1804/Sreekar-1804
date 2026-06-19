@@ -7,7 +7,7 @@ AI / ML Engineer | Computer Vision | LLM / VLM / RAG | MLOps
 </h3>
 
 <p align="center">
-I build practical AI systems that move beyond notebooks — from model training and evaluation to dashboards, APIs, Docker, testing, and deployment-ready demos.
+I build practical AI systems that move beyond notebooks from model training and evaluation to dashboards, APIs, Docker, testing, and deployment-ready demos.
 </p>
 
 <p align="center">
