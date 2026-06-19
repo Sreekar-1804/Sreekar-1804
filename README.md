@@ -276,12 +276,12 @@ MLOps workflows with Docker, MLflow, testing, and CI
 Cloud and API-based AI system design
 
 <!-- ===================== GITHUB STATS ===================== -->
-GitHub Activity
+# GitHub Activity
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sreekar-1804&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreekar-1804&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreekar-1804&layout=compact&theme=tokyonight&hide_border=true" width="45%" /> </p>
 
-Contribution Graph
+# Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreekar-1804&theme=tokyo-night&hide_border=true" /> </p>
 
 <!-- ===================== CONTACT ===================== -->
-Contact
+# Contact
 <p align="center"> <a href="mailto:sreekar.germany.2025@gmail.com"> <img src="https://img.shields.io/badge/Email-sreekar.germany.2025@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/sreekar-v/"> <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
